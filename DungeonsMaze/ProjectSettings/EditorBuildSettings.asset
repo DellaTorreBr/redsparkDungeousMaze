@@ -1,0 +1,14 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/_DungeonsMaze_/Scenes/MenuScene.unity
+    guid: 27a429ad02d7c4a0a8986557ab05f534
+  - enabled: 1
+    path: Assets/_DungeonsMaze_/Scenes/GamePlayScene.unity
+    guid: 8d32b962d22e743e8b3ee53f4eacd205
+  m_configObjects: {}
